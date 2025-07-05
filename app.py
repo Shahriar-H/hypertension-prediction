@@ -14,6 +14,10 @@ feature_order = ['age', 'gender', 'pulse_rate', 'systolic_bp', 'diastolic_bp',
 st.title("Hypertension Risk Prediction App")
 
 st.write("""
+By Shahriar, Alif and Rakibul (Dept. of Statistics, Jagannath University, Dhaka)
+""")
+
+st.write("""
 #### Enter patient data below:
 """)
 
